@@ -48,3 +48,11 @@ npm add tailwindcss
 npm run lint --fix  
 ```
 
+### Add packages default
+```
+vue add router
+```
+** Em caso de erro troca o valor do sass-loader conforme abaixo
+`"sass-loader": "^10"`
+
+
