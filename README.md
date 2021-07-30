@@ -68,5 +68,5 @@ npm i vee-validate
 
 4 -
 ```
-npm i vee-validate
+npm i axios
 ```
