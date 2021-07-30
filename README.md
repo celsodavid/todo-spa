@@ -55,4 +55,6 @@ vue add router
 ** Em caso de erro troca o valor do sass-loader conforme abaixo
 `"sass-loader": "^10"`
 
-
+```
+vue add vuex
+```
